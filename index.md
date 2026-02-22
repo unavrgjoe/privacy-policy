@@ -13,7 +13,7 @@ We do not display advertisements in the App. We do not sell personal information
 We maintain the following types of user accounts:
 
 - **Individual Users:** Users aged 13 or older who create an account through Google sign-in.
-- **School Administrators:** Educators or officials at a school or district who create and manage tournaments on behalf of their institution.
+- **School Administrators and Educators:** Teachers, administrators, or other school officials who create and manage tournaments or classrooms on behalf of their institution.
 - **Tournament Participants:** Students who access the App through a school-administered tournament. Tournament Participants may be under the age of 13 where the administering school has provided consent as described in Section 8.
 
 ## 3. Information We Collect
@@ -120,7 +120,7 @@ Schools and educational organizations may register to host tournaments through E
 
 ### 8.2 Data Visibility
 
-School Administrators have access to Performance Data for Tournament Participants linked to their tournaments. This includes per-student subject performance, scores, and participation records. School Administrators may not access data from other tournaments or Individual Users not associated with their institution.
+School Administrators and Educators have access to Performance Data for Tournament Participants linked to their tournaments or classrooms. This includes individual per-student subject performance, scores, question-level accuracy, and participation records, for the purpose of monitoring student progress and informing instruction. School Administrators and Educators may not access data from other tournaments or Individual Users not associated with their institution.
 
 ### 8.3 Relationship to FERPA
 
