@@ -1,6 +1,6 @@
 # EloMath Privacy Policy
 
-**Last Updated: February 18, 2026**
+**Last Updated: February 21, 2026**
 
 ## 1. Overview
 
@@ -197,7 +197,7 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy, wish to exercise your data rights, or believe we have collected information from a child without appropriate consent, please contact us at:
 
-**Email:** [unavrgjoe@gmail.com]
+**Email:** unavrgjoe@gmail.com
 
 ---
 
