@@ -1,4 +1,6 @@
-# EloMath Privacy Policy
+# EloBeasts Privacy Policy
+
+[Account deletion instructions](delete-account)
 
 **Last Updated: February 21, 2026**
 
