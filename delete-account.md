@@ -1,8 +1,8 @@
-# EloBeasts Account Deletion Instructions
+## EloBeasts Account Deletion Instructions
 
 [Privacy Policy](./)
 
-## Delete your account inside the app
+### Delete your account inside the app
 
 Open the EloBeasts app
 Click on the settings (Gear) icon in the top right corner of the home screen
@@ -11,14 +11,14 @@ Confirm the deletion
 
 This permanently deletes your EloBeasts account and associated data as described below:
 
-## Data that is deleted
+### Data that is deleted
 
 Profile data including in-game currencies
 Creature ownership / roster data
 Matchmaking-related records
 Personal rank and question accuracy
 
-## Data that may be retained
+### Data that may be retained
 
 Legal/financial records if ever applicable
 Aggregated analystics that do not identify you
