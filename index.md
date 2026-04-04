@@ -6,7 +6,7 @@
 
 ## 1. Overview
 
-EloMath ("we," "our," or "the App") is a competitive math education game. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
+EloBeasts ("we," "our," or "the App") is a competitive math education game. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
 
 We do not display advertisements in the App. We do not sell personal information to third parties. We do not permit any third-party or behavioral advertising within the App.
 
@@ -104,7 +104,7 @@ We share personal information with these providers only as necessary to operate 
 
 ### 7.1 Individual Users
 
-EloMath requires Individual Users to be 13 years of age or older. During account creation, users provide their date of birth. Users who do not meet the age requirement are not permitted to create an account.
+EloBeasts requires Individual Users to be 13 years of age or older. During account creation, users provide their date of birth. Users who do not meet the age requirement are not permitted to create an account.
 
 ### 7.2 Children Under 13
 
@@ -114,9 +114,9 @@ We do not knowingly collect personal information from children under 13 except t
 
 ### 8.1 School Administrator Consent
 
-Schools and educational organizations may register to host tournaments through EloMath. When a School Administrator creates a tournament, they agree to our Terms of Service, which include:
+Schools and educational organizations may register to host tournaments through EloBeasts. When a School Administrator creates a tournament, they agree to our Terms of Service, which include:
 
-- Representing and warranting that the school has the authority to provide consent and authorization for EloMath to collect and use information from students under 13 before allowing such students to access the service
+- Representing and warranting that the school has the authority to provide consent and authorization for EloBeasts to collect and use information from students under 13 before allowing such students to access the service
 - Acknowledging that student personal information is collected for the use and benefit of the school's educational purposes
 - Confirming that the school has authority to consent on behalf of parents for the collection of student data in an educational context, as permitted under COPPA
 
@@ -130,7 +130,7 @@ When providing services to schools, we act as a "school official" with a legitim
 
 ### 8.4 Student Data Ownership
 
-Schools and students retain ownership of all Student Data. EloMath processes Student Data solely to provide the tournament services requested by the school. We do not use Student Data to send marketing communications to students, and we do not send promotional materials to student or child users.
+Schools and students retain ownership of all Student Data. EloBeasts processes Student Data solely to provide the tournament services requested by the school. We do not use Student Data to send marketing communications to students, and we do not send promotional materials to student or child users.
 
 ### 8.5 AI and Machine Learning
 
@@ -144,7 +144,7 @@ A Data Processing Agreement (DPA) is available upon request for schools and dist
 
 ### 8.7 Data Processing Role
 
-When providing services through school-administered tournaments, the school is the data controller and EloMath acts as a data processor. We process student data only as directed by the school and in accordance with our agreement with the school.
+When providing services through school-administered tournaments, the school is the data controller and EloBeasts acts as a data processor. We process student data only as directed by the school and in accordance with our agreement with the school.
 
 ## 9. Data Security
 
@@ -203,4 +203,4 @@ If you have questions about this Privacy Policy, wish to exercise your data righ
 
 ---
 
-_This privacy policy applies to the EloMath mobile application._
+_This privacy policy applies to the EloBeasts mobile application._
